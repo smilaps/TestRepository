@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_idea_type" table="x_215225_msusa_inn_innovation_ideas" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cost Savings</label>
+            <language>en</language>
+            <name>x_215225_msusa_inn_innovation_ideas</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 18:30:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c00e2cadb11130041bdf6dfbf961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 18:30:26</sys_updated_on>
+            <value>cost savings</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process Improvement</label>
+            <language>en</language>
+            <name>x_215225_msusa_inn_innovation_ideas</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 18:30:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c00e2cadb11130041bdf6dfbf961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 18:30:26</sys_updated_on>
+            <value>process improvement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Team Building</label>
+            <language>en</language>
+            <name>x_215225_msusa_inn_innovation_ideas</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 18:30:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f800e2cadb11130041bdf6dfbf961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 18:30:26</sys_updated_on>
+            <value>team building</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_idea_type</element>
+            <name>x_215225_msusa_inn_innovation_ideas</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 18:30:26</sys_created_on>
+            <sys_id>3800e2cadb11130041bdf6dfbf961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_idea_type</sys_name>
+            <sys_package display_value="MSUSA Innovation" source="x_215225_msusa_inn">4ed996c6db11130041bdf6dfbf9619ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MSUSA Innovation">4ed996c6db11130041bdf6dfbf9619ef</sys_scope>
+            <sys_update_name>sys_choice_x_215225_msusa_inn_innovation_ideas_u_idea_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 18:30:26</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

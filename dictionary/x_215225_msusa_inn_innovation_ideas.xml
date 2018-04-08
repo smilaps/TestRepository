@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" label="Innovation Ideas" max_length="40" name="x_215225_msusa_inn_innovation_ideas" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Idea Details" max_length="65536" name="u_idea_details" read_only="true" type="html"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="draft" label="Status" max_length="40" name="u_idea_status" type="string">
+            <choice>
+                <element label="Draft" sequence="0" value="draft"/>
+                <element label="Approved" sequence="1" value="approved"/>
+                <element label="Rejected" sequence="2" value="rejected"/>
+                <element label="Differed" sequence="3" value="differed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="cost savings" label="Idea Type" mandatory="true" max_length="40" name="u_idea_type" type="string">
+            <choice>
+                <element label="Cost Savings" sequence="0" value="cost savings"/>
+                <element label="Process Improvement" sequence="1" value="process improvement"/>
+                <element label="Team Building" sequence="2" value="team building"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Related Link" max_length="1024" name="u_related_link" read_only="true" type="url"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Responsible Group" max_length="40" name="u_responsible_group" type="string" use_dependent_field="true">
+            <choice>
+                <element label="Fixed Income" sequence="0" value="fixed income"/>
+                <element label="Futures" sequence="1" value="futures"/>
+                <element label="Derivates" sequence="2" value="derivates"/>
+                <element label="Corporate" sequence="3" value="corporate"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Review Notes" max_length="2000" name="u_review_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="400" name="u_short_description" read_only="true" type="string"/>
+        <element label="Target Implementation Date" max_length="40" name="u_target_date" type="glide_date"/>
+    </element>
+</database>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Review Summary" section_id="03a5a68edb11130041bdf6dfbf96196d" sys_domain="global" table="x_215225_msusa_inn_innovation_ideas" version="3" view="Summary_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_review_notes</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 18:55:10</sys_created_on>
+            <sys_id>5fa5e68edb11130041bdf6dfbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review Summary" display_value="Review Summary" name="x_215225_msusa_inn_innovation_ideas" sys_domain="global" view="c7a5a68edb11130041bdf6dfbf961969">03a5a68edb11130041bdf6dfbf96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 18:55:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_target_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 18:55:10</sys_created_on>
+            <sys_id>dfa5e68edb11130041bdf6dfbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review Summary" display_value="Review Summary" name="x_215225_msusa_inn_innovation_ideas" sys_domain="global" view="c7a5a68edb11130041bdf6dfbf961969">03a5a68edb11130041bdf6dfbf96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 18:55:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 18:55:10</sys_created_on>
+            <sys_id>53a5e68edb11130041bdf6dfbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review Summary" display_value="Review Summary" name="x_215225_msusa_inn_innovation_ideas" sys_domain="global" view="c7a5a68edb11130041bdf6dfbf961969">03a5a68edb11130041bdf6dfbf96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 18:55:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 18:55:10</sys_created_on>
+            <sys_id>d3a5e68edb11130041bdf6dfbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review Summary" display_value="Review Summary" name="x_215225_msusa_inn_innovation_ideas" sys_domain="global" view="c7a5a68edb11130041bdf6dfbf961969">03a5a68edb11130041bdf6dfbf96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 18:55:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_responsible_group</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 18:55:10</sys_created_on>
+            <sys_id>57a5e68edb11130041bdf6dfbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review Summary" display_value="Review Summary" name="x_215225_msusa_inn_innovation_ideas" sys_domain="global" view="c7a5a68edb11130041bdf6dfbf961969">03a5a68edb11130041bdf6dfbf96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 18:55:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Review Summary</caption>
+            <header>false</header>
+            <name>x_215225_msusa_inn_innovation_ideas</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 18:55:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03a5a68edb11130041bdf6dfbf96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Review Summary</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MSUSA Innovation" source="x_215225_msusa_inn">4ed996c6db11130041bdf6dfbf9619ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MSUSA Innovation">4ed996c6db11130041bdf6dfbf9619ef</sys_scope>
+            <sys_update_name>sys_ui_section_03a5a68edb11130041bdf6dfbf96196d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 18:55:09</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Summary View" name="Summary_View">c7a5a68edb11130041bdf6dfbf961969</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_215225_msusa_inn_innovation_ideas</description>
+        <name>x_215225_msusa_inn_innovation_ideas</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-07 18:15:24</sys_created_on>
+        <sys_id>709cd24adb11130041bdf6dfbf96197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_215225_msusa_inn_innovation_ideas</sys_name>
+        <sys_package display_value="MSUSA Innovation" source="x_215225_msusa_inn">4ed996c6db11130041bdf6dfbf9619ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MSUSA Innovation">4ed996c6db11130041bdf6dfbf9619ef</sys_scope>
+        <sys_update_name>sys_security_acl_709cd24adb11130041bdf6dfbf96197b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-07 18:15:24</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
