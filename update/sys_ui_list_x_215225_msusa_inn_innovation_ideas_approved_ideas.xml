@@ -1,110 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_215225_msusa_inn_innovation_ideas" version="2" view="">
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_215225_msusa_inn_innovation_ideas" version="2" view="approved_ideas">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4078fb0adbd1130041bdf6dfbf9619bd</list_id>
+            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="dda8fb0adbd1130041bdf6dfbf96196d">e5b8bbc6dbd1130041bdf6dfbf961972</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-08 00:56:46</sys_created_on>
-            <sys_id>4c78fb0adbd1130041bdf6dfbf9619bd</sys_id>
+            <sys_created_on>2018-04-08 00:57:58</sys_created_on>
+            <sys_id>edb8fb8adbd1130041bdf6dfbf961952</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-08 00:56:46</sys_updated_on>
+            <sys_updated_on>2018-04-08 00:57:58</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_idea_details</element>
-            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4078fb0adbd1130041bdf6dfbf9619bd</list_id>
+            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="dda8fb0adbd1130041bdf6dfbf96196d">e5b8bbc6dbd1130041bdf6dfbf961972</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-08 00:56:46</sys_created_on>
-            <sys_id>08787b8adbd1130041bdf6dfbf961916</sys_id>
+            <sys_created_on>2018-04-08 00:57:58</sys_created_on>
+            <sys_id>61b8fb8adbd1130041bdf6dfbf961953</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-08 00:56:46</sys_updated_on>
+            <sys_updated_on>2018-04-08 00:57:58</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_idea_status</element>
-            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4078fb0adbd1130041bdf6dfbf9619bd</list_id>
+            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="dda8fb0adbd1130041bdf6dfbf96196d">e5b8bbc6dbd1130041bdf6dfbf961972</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-08 00:56:46</sys_created_on>
-            <sys_id>88787b8adbd1130041bdf6dfbf961916</sys_id>
+            <sys_created_on>2018-04-08 00:57:58</sys_created_on>
+            <sys_id>e1b8fb8adbd1130041bdf6dfbf961953</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-08 00:56:46</sys_updated_on>
+            <sys_updated_on>2018-04-08 00:57:58</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_idea_type</element>
-            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4078fb0adbd1130041bdf6dfbf9619bd</list_id>
+            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="dda8fb0adbd1130041bdf6dfbf96196d">e5b8bbc6dbd1130041bdf6dfbf961972</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-08 00:56:46</sys_created_on>
-            <sys_id>0c787b8adbd1130041bdf6dfbf961916</sys_id>
+            <sys_created_on>2018-04-08 00:57:58</sys_created_on>
+            <sys_id>65b8fb8adbd1130041bdf6dfbf961953</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-08 00:56:46</sys_updated_on>
+            <sys_updated_on>2018-04-08 00:57:58</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_short_description</element>
-            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4078fb0adbd1130041bdf6dfbf9619bd</list_id>
+            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="dda8fb0adbd1130041bdf6dfbf96196d">e5b8bbc6dbd1130041bdf6dfbf961972</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-08 00:56:46</sys_created_on>
-            <sys_id>8c787b8adbd1130041bdf6dfbf961916</sys_id>
+            <sys_created_on>2018-04-08 00:57:58</sys_created_on>
+            <sys_id>e5b8fb8adbd1130041bdf6dfbf961953</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-08 00:56:46</sys_updated_on>
+            <sys_updated_on>2018-04-08 00:57:58</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_responsible_group</element>
-            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4078fb0adbd1130041bdf6dfbf9619bd</list_id>
+            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="dda8fb0adbd1130041bdf6dfbf96196d">e5b8bbc6dbd1130041bdf6dfbf961972</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-08 00:56:46</sys_created_on>
-            <sys_id>00787b8adbd1130041bdf6dfbf961917</sys_id>
+            <sys_created_on>2018-04-08 00:57:58</sys_created_on>
+            <sys_id>69b8fb8adbd1130041bdf6dfbf961953</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-08 00:56:46</sys_updated_on>
+            <sys_updated_on>2018-04-08 00:57:58</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_target_date</element>
-            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4078fb0adbd1130041bdf6dfbf9619bd</list_id>
+            <list_id display_value="x_215225_msusa_inn_innovation_ideas" element="NULL" name="x_215225_msusa_inn_innovation_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="dda8fb0adbd1130041bdf6dfbf96196d">e5b8bbc6dbd1130041bdf6dfbf961972</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-08 00:56:46</sys_created_on>
-            <sys_id>80787b8adbd1130041bdf6dfbf961917</sys_id>
+            <sys_created_on>2018-04-08 00:57:58</sys_created_on>
+            <sys_id>e9b8fb8adbd1130041bdf6dfbf961953</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-08 00:56:46</sys_updated_on>
+            <sys_updated_on>2018-04-08 00:57:58</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -118,20 +118,20 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-08 00:56:46</sys_created_on>
+            <sys_created_on>2018-04-08 00:57:58</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>4078fb0adbd1130041bdf6dfbf9619bd</sys_id>
+            <sys_id>e5b8bbc6dbd1130041bdf6dfbf961972</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_215225_msusa_inn_innovation_ideas</sys_name>
             <sys_package display_value="MSUSA Innovation" source="x_215225_msusa_inn">4ed996c6db11130041bdf6dfbf9619ef</sys_package>
             <sys_policy/>
             <sys_scope display_value="MSUSA Innovation">4ed996c6db11130041bdf6dfbf9619ef</sys_scope>
-            <sys_update_name>sys_ui_list_x_215225_msusa_inn_innovation_ideas_null</sys_update_name>
+            <sys_update_name>sys_ui_list_x_215225_msusa_inn_innovation_ideas_approved_ideas</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-08 00:56:46</sys_updated_on>
+            <sys_updated_on>2018-04-08 00:57:58</sys_updated_on>
             <sys_user/>
-            <view display_value="Default view" name="NULL">Default view</view>
+            <view display_value="Approved Ideas" name="approved_ideas">dda8fb0adbd1130041bdf6dfbf96196d</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

@@ -6,39 +6,41 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter/>
-        <hint/>
+        <filter table="x_215225_msusa_inn_innovation_ideas">u_idea_status=approved^EQ<item endquery="false" field="u_idea_status" goto="false" newquery="false" operator="=" or="false" value="approved"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>Shows all approved Ideas</hint>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Innovation Ideas</mobile_title>
+        <mobile_title>Approved Ideas</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_215225_msusa_inn_innovation_ideas</name>
-        <order>2</order>
+        <order>3</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_215225_msusa_inn.innovation_ideas_user</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-04-07 18:15:24</sys_created_on>
+        <sys_created_on>2018-04-08 01:04:54</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>609cd24adb11130041bdf6dfbf961961</sys_id>
+        <sys_id>3bc977cadbd1130041bdf6dfbf961967</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_name>Approved Ideas</sys_name>
         <sys_overrides/>
         <sys_package display_value="MSUSA Innovation" source="x_215225_msusa_inn">4ed996c6db11130041bdf6dfbf9619ef</sys_package>
         <sys_policy/>
         <sys_scope display_value="MSUSA Innovation">4ed996c6db11130041bdf6dfbf9619ef</sys_scope>
-        <sys_update_name>sys_app_module_609cd24adb11130041bdf6dfbf961961</sys_update_name>
+        <sys_update_name>sys_app_module_3bc977cadbd1130041bdf6dfbf961967</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-08 02:23:40</sys_updated_on>
+        <sys_updated_on>2018-04-08 02:23:54</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Approved Ideas</title>
         <uncancelable>false</uncancelable>
         <view_name/>
-        <window_name/>
+        <window_name>Approved Ideas Window</window_name>
     </sys_app_module>
 </record_update>
